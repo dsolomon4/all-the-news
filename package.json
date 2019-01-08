@@ -1,0 +1,26 @@
+{
+  "name": "all-the-news",
+  "version": "1.0.0",
+  "description": "In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsolomon4/all-the-news.git"
+  },
+  "author": "Desiree Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsolomon4/all-the-news/issues"
+  },
+  "homepage": "https://github.com/dsolomon4/all-the-news#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.2"
+  }
+}
