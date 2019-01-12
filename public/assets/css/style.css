@@ -1,0 +1,18 @@
+nav {
+background:  blueviolet;
+
+}
+
+h2 {
+background-color: red;
+
+}
+
+.hello {
+    color: red
+}
+
+.jumbo-holder {
+    background: url(/public/assets/images/newspaper-943004_1920.jpg);
+    text-align: center;
+}
